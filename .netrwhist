@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/zatserkl/Instruction for DRS4 macros.rtfd'
+let g:netrw_dirhist_2='/srv/zatserkl/work/lab/lgad/sensl6x6/cern/publication-reFit'
+let g:netrw_dirhist_3='/Users/zatserkl/macros/save'
+let g:netrw_dirhist_4='/Users/zatserkl/insight/digital-wallet/insight_testsuite/tests/test-1-paymo-trans'
+let g:netrw_dirhist_5='/Users/zatserkl/insight/digital-wallet/insight_testsuite/tests/test-1-paymo-trans/paymo_input'
